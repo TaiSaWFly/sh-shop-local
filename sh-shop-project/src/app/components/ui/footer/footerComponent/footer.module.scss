@@ -1,0 +1,73 @@
+@import "../../../../../styles/mixins.scss";
+@import "../../../../../styles/colors.scss";
+
+.footer__wrapper {
+  display: flex;
+  font-size: 1.2rem;
+}
+
+.footer__list {
+  width: 25%;
+  padding-left: 20px;
+  border-right: 1px solid $quaternary;
+
+  &:first-of-type {
+    padding: 0;
+  }
+
+  &:last-of-type {
+    border: none;
+  }
+}
+
+.footer__list_title {
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.footer__list_link {
+  a {
+    display: inline;
+    &:hover {
+      text-decoration: underline;
+      color: $hoverBlue;
+    }
+  }
+}
+
+.footer__list_social {
+  display: flex;
+  margin-top: 10px;
+}
+
+.footer__list_social_icon_wrapper {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  padding: 5px;
+
+  cursor: pointer;
+  border: 1px solid $primary;
+  position: relative;
+
+  transition: border-color 0.2s ease-in-out;
+
+  &:hover {
+    border-color: $hoverBlue;
+
+    .footer__list_social_icon {
+      fill: $hoverBlue;
+    }
+  }
+}
+
+.footer__list_social_icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  transition: fill 0.2s ease-in-out;
+}

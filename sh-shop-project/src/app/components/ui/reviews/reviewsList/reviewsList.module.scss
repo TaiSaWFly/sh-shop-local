@@ -1,0 +1,43 @@
+@import "../../../../../styles/colors.scss";
+
+.empty_reviews_list {
+  max-width: 1100px;
+  width: 100%;
+  min-height: 90px;
+  padding: 15px;
+
+  font-family: "Lato Light Italic";
+  font-size: 2.4rem;
+
+  border: 1px solid $quaternary;
+
+  & span {
+    font-family: "Lato Bold";
+    font-size: 2rem;
+  }
+}
+
+.empty_reviews_list__link {
+  display: inline;
+  color: $orange;
+  position: relative;
+
+  &:hover {
+    &::after {
+      min-width: 100%;
+    }
+  }
+
+  &::after {
+    content: "";
+    min-width: 0%;
+    height: 1px;
+    background: $orange;
+
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+
+    transition: min-width 0.3s ease-in-out;
+  }
+}

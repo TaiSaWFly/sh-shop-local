@@ -1,0 +1,68 @@
+@import "../../../../../styles/colors.scss";
+
+.basket_button {
+  display: inline-block;
+
+  padding: 2rem 4rem;
+  color: $tertiary;
+
+  border: 1px solid transparent;
+  background: $orange;
+
+  &:hover {
+    color: $orange;
+    background: transparent;
+    border-color: $orange;
+  }
+}
+
+.basket_button__active {
+  display: inline-block;
+
+  padding: 2rem 4rem;
+  color: $orange;
+
+  border: 1px solid $orange;
+  background: transparent;
+
+  &:hover {
+    color: $tertiary;
+    background: $orange;
+    border-color: transparent;
+
+    .basket_button__qty {
+      background: $tertiary;
+
+      & span {
+        color: $orange;
+      }
+    }
+  }
+}
+
+.basket_button__info {
+  position: relative;
+}
+
+.basket_button__qty {
+  display: inline-block;
+  width: 17px;
+  height: 17px;
+  background: $orange;
+  border-radius: 50%;
+
+  position: absolute;
+  right: -25px;
+  top: -2px;
+
+  transition: background-color 0.2s ease-in-out;
+
+  & span {
+    color: $tertiary;
+    position: absolute;
+    top: 2px;
+    left: 4px;
+
+    transition: color 0.2s ease-in-out;
+  }
+}

@@ -1,0 +1,27 @@
+@import "../../../../../styles/colors.scss";
+
+.review_form {
+  font-family: "Lato Regular";
+  font-size: 1.2rem;
+
+  & textarea {
+    height: 70px;
+  }
+
+  & button {
+    display: block;
+    margin-left: auto;
+    margin-top: 15px;
+    padding: 1.5rem 3rem;
+    color: $tertiary;
+
+    border: 1px solid transparent;
+    background: $orange;
+
+    &:hover {
+      color: $orange;
+      background: transparent;
+      border-color: $orange;
+    }
+  }
+}

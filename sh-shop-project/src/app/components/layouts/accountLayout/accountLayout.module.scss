@@ -1,0 +1,20 @@
+@import "../../../../styles/colors.scss";
+
+.account_title {
+  margin-bottom: 30px;
+}
+
+.account_layout {
+  display: flex;
+  margin: 0 -15px;
+}
+
+.account_user {
+  width: 30%;
+}
+
+.account_menus {
+  width: 70%;
+  padding: 0 30px;
+  border-left: 1px solid $quaternary;
+}

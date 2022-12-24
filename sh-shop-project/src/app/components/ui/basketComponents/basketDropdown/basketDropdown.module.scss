@@ -1,0 +1,79 @@
+@import "../../../../../styles/colors.scss";
+
+.basket_link__dropdown_wrapper_hide {
+  display: none;
+}
+
+.basket_link__dropdown_wrapper_show {
+  padding-top: 20px;
+  position: absolute;
+  top: 40px;
+  right: 0;
+}
+
+.basket_link__dropdown {
+  font-family: "Lato Bold";
+  text-transform: capitalize;
+  color: $primary;
+
+  padding: 20px;
+  background-color: $tertiary;
+  box-shadow: 0px 15px 20px $hoverBoxShadow;
+}
+
+.dropdown {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.basket_img__link {
+  min-width: 50px;
+  height: 50px;
+  margin-right: 20px;
+
+  border: 1px solid $boxShadow;
+  transition: box-shadow 0.2s ease-in-out;
+
+  &:hover {
+    box-shadow: 0 0 10px $hoverBoxShadow;
+  }
+}
+
+.product_name {
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  margin-right: 20px;
+}
+
+.product_price {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  color: $orange;
+}
+
+.product_quantity {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  white-space: nowrap;
+}
+
+.product_delete {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.product_subtotal {
+  font-size: 1.6rem;
+  text-align: center;
+  color: $orange;
+
+  & p {
+    display: inline;
+    color: $primary;
+    margin-right: 20px;
+  }
+}

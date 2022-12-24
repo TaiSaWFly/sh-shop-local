@@ -1,0 +1,19 @@
+@import "../../../../../styles/colors.scss";
+
+.form__field {
+  display: flex;
+  flex-direction: column;
+
+  position: relative;
+
+  & label {
+    margin-bottom: 10px;
+    color: $secondary;
+    text-align: start;
+    text-transform: uppercase;
+  }
+
+  & textarea {
+    height: 200px;
+  }
+}

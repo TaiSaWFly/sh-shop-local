@@ -1,0 +1,71 @@
+@import "../../../../../styles/colors.scss";
+
+.product_size {
+  margin-bottom: 40px;
+}
+
+.product_size__list {
+  display: flex;
+  align-items: center;
+}
+
+.product_size__title {
+  margin-right: 20px;
+  font-size: 2.1rem;
+  text-transform: uppercase;
+}
+
+.product_size___list_item {
+  width: 35px;
+  height: 35px;
+  margin-right: 10px;
+
+  position: relative;
+  cursor: pointer;
+  border: 1px solid $primary;
+
+  transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out,
+    border-color 0.2s ease-in-out;
+
+  &:last-of-type {
+    margin-right: 0;
+  }
+
+  & span {
+    font-size: 1.4rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  &:hover {
+    color: $hoverWhite;
+    background: $hoverBlue;
+    border-color: transparent;
+  }
+}
+
+.product_size___list_item__active {
+  width: 35px;
+  height: 35px;
+  margin-right: 10px;
+
+  position: relative;
+  cursor: pointer;
+  color: $hoverWhite;
+  background: $hoverBlue;
+  border-color: transparent;
+
+  &:last-of-type {
+    margin-right: 0;
+  }
+
+  & span {
+    font-size: 1.4rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}

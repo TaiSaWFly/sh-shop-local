@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "menu_1",
+    "collectionId": "collection_1",
+    "submenu": { "collectionCategories": "collCategory_1" }
+  },
+  {
+    "_id": "menu_2",
+    "collectionId": "collection_2",
+    "submenu": { "collectionCategories": "collCategory_2" }
+  },
+  {
+    "_id": "menu_3",
+    "collectionId": "collection_3",
+    "submenu": { "collectionCategories": "collCategory_3" }
+  },
+  { "_id": "menu_4", "collectionId": "collection_4" },
+  { "_id": "menu_5", "path": "/about", "name": "About" }
+]

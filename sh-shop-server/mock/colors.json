@@ -1,0 +1,7 @@
+[
+  { "_id": "color_1", "name": "Red", "hex": "#dc3545" },
+  { "_id": "color_2", "name": "Green", "hex": "#005945" },
+  { "_id": "color_3", "name": "Blue", "hex": "#00c8c8" },
+  { "_id": "color_4", "name": "Grey", "hex": "#747474" },
+  { "_id": "color_5", "name": "Black", "hex": "#222222" }
+]

@@ -1,0 +1,118 @@
+@import "../../../../../../styles/colors.scss";
+@import "../../../../../../styles/mixins.scss";
+
+.history_table {
+  margin-top: 30px;
+
+  & table {
+    width: 100%;
+
+    font-size: 1.2rem;
+    font-weight: 700;
+    border-collapse: collapse;
+    text-transform: uppercase;
+
+    & th {
+      padding-bottom: 10px;
+    }
+
+    & td {
+      padding: 20px 0;
+    }
+
+    & thead {
+      font-size: 1.2rem;
+      color: $secondary;
+      text-align: left;
+      letter-spacing: 0.75px;
+      white-space: nowrap;
+
+      & tr {
+        @include border-bottom-decor-componnent;
+      }
+    }
+
+    & tbody {
+      & tr {
+        @include border-bottom-decor-componnent;
+      }
+
+      tr:nth-child(even) {
+        background-color: #fdfdfd;
+      }
+
+      & td {
+        font-size: 1.3rem;
+        width: 100%;
+        padding-right: 70px;
+        white-space: nowrap;
+
+        &:first-of-type {
+          width: 100px;
+          height: 100px;
+          padding-right: 60px;
+        }
+
+        &:nth-child(2) {
+          width: 100px;
+          padding-right: 60px;
+        }
+
+        &:nth-child(3) {
+          padding-right: 40px;
+        }
+
+        &:nth-child(6) {
+          padding-right: 40px;
+        }
+
+        &:last-of-type {
+          padding-right: 10px;
+        }
+      }
+    }
+  }
+}
+
+.history_table__back_button {
+  padding: 1.2rem 1.9rem;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  border: 1px solid transparent;
+  background: $blue;
+  color: $tertiary;
+
+  position: relative;
+  // position: absolute;
+  // top: 15px;
+  // left: 30px;
+
+  &::before {
+    content: "";
+    width: 15px;
+    height: 15px;
+
+    opacity: 0;
+    background-color: transparent;
+    border-radius: 1px;
+    border-bottom: 3px solid $orange;
+    border-left: 3px solid $orange;
+
+    position: absolute;
+    top: 50%;
+    left: -20%;
+
+    transform: translateY(-50%) rotate(45deg);
+    transition: opacity 0.2s ease-in-out;
+  }
+
+  &:hover {
+    color: $orange;
+    background-color: transparent;
+    border: 1px solid $orange;
+
+    &::before {
+      opacity: 1;
+    }
+  }
+}

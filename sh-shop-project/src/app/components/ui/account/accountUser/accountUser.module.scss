@@ -1,0 +1,51 @@
+@import "../../../../../styles/colors.scss";
+
+.account_user {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 30px;
+
+  font-family: "Lato Regular";
+  font-weight: 400;
+}
+
+.user_avatar {
+  max-width: 200px;
+  width: 100%;
+  height: 150px;
+  margin-bottom: 20px;
+
+  border-radius: 10px;
+  border: 2px solid $boxShadow;
+  background: $quaternary;
+  overflow: hidden;
+}
+
+.user_info {
+  & div {
+    display: flex;
+    margin-bottom: 15px;
+    line-height: 1.2;
+
+    & span {
+      padding-right: 5px;
+      width: 50%;
+      margin-bottom: 5px;
+
+      font-size: 1.2rem;
+      text-align: start;
+      color: $primary;
+      text-transform: uppercase;
+    }
+
+    & p {
+      width: 50%;
+      padding-left: 5px;
+
+      text-align: center;
+      font-size: 1.2rem;
+      color: $secondary;
+    }
+  }
+}

@@ -1,0 +1,40 @@
+@import "../../../../styles/colors.scss";
+
+.popular_list_actions__wrapper {
+  display: flex;
+}
+
+.popular_list_actions__wrap {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  padding: 5px;
+  cursor: pointer;
+
+  background: transparent;
+  border: 1px solid $primary;
+  border-radius: 50%;
+  position: relative;
+
+  transition: background-color 0.3s ease-in-out,
+    background-color 0.3s ease-in-out;
+
+  &:hover {
+    background: $hoverBlue;
+    border-color: transparent;
+
+    .popular_list_actions__icon {
+      fill: $hoverWhite;
+    }
+  }
+}
+
+.popular_list_actions__icon {
+  fill: $primary;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  transition: fill 0.3s ease-in-out;
+}

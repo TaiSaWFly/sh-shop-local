@@ -1,0 +1,14 @@
+@import "../../../../../styles/colors.scss";
+
+.basket_quantity {
+  display: flex;
+  align-items: center;
+
+  & span {
+    margin: 2.5px 2.5px 0 0;
+  }
+}
+
+.basket_quantity__action_icon {
+  color: $tertiary;
+}

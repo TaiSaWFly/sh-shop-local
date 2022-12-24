@@ -1,0 +1,102 @@
+@import "../../../../../styles/colors.scss";
+
+.signup_page {
+  font-family: "Lato Regular";
+  font-size: 1.2rem;
+
+  width: 100%;
+  max-width: 500px;
+  padding: 60px;
+
+  background: $tertiary;
+  box-shadow: 0px 0px 30px rgba($primary, 0.5);
+
+  & form {
+    margin-top: 20px;
+  }
+}
+
+.signup_form__field {
+  margin-bottom: 35px;
+}
+
+.signup_form__licence {
+  & a {
+    display: inline-block;
+    font-family: "Lato Light Italic";
+    font-size: 1.2rem;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: $orange;
+    position: relative;
+
+    &::after {
+      content: "";
+      min-width: 0%;
+      height: 1px;
+      background: $orange;
+
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      transition: min-width 0.3s ease-in-out;
+    }
+
+    &:hover {
+      &::after {
+        min-width: 100%;
+      }
+    }
+  }
+}
+
+.signup_form__action {
+  & button {
+    display: inline-block;
+    margin-bottom: 10px;
+    padding: 2rem 8rem;
+    color: $tertiary;
+
+    border: 1px solid transparent;
+    background: $orange;
+
+    &:hover {
+      color: $orange;
+      background: transparent;
+      border-color: $orange;
+    }
+  }
+
+  & a {
+    display: inline-block;
+    font-family: "Lato Light Italic";
+    font-size: 1.2rem;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: $orange;
+    position: relative;
+
+    &::after {
+      content: "";
+      min-width: 0%;
+      height: 1px;
+      background: $orange;
+
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      transition: min-width 0.3s ease-in-out;
+    }
+
+    &:hover {
+      &::after {
+        min-width: 100%;
+      }
+    }
+  }
+}
+
+.signup_page__error {
+  font-size: 1.3rem;
+  color: $danger;
+}

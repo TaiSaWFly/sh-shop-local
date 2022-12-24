@@ -1,0 +1,1942 @@
+[
+  {
+    "id": "product_1",
+    "imgUrl": "assets/img/clothers/burnt1.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt1.webp" },
+      { "imgUrl": "assets/img/clothers/burnt1.webp" },
+      { "imgUrl": "assets/img/clothers/burnt1.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89" },
+    "articleNumber": "123449992378",
+    "rate": 0,
+    "numberOfSales": 552,
+    "collectionId": "collection_1",
+    "categoryId": "category_8",
+    "popular": "popular_1",
+    "newArrivals": true,
+    "sizes": ["size_5", "size_3", "size_4"],
+    "colors": ["color_1", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_2",
+    "imgUrl": "assets/img/clothers/burnt1.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt1.webp" },
+      { "imgUrl": "assets/img/clothers/burnt1.webp" },
+      { "imgUrl": "assets/img/clothers/burnt1.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89" },
+    "articleNumber": "123449992378",
+    "rate": 1,
+    "numberOfSales": 382,
+    "collectionId": "collection_1",
+    "categoryId": "category_6",
+    "popular": "popular_1",
+    "newArrivals": true,
+    "sizes": ["size_1", "size_2", "size_3"],
+    "colors": ["color_1", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_3",
+    "imgUrl": "assets/img/clothers/burnt1.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt1.webp" },
+      { "imgUrl": "assets/img/clothers/burnt1.webp" },
+      { "imgUrl": "assets/img/clothers/burnt1.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "17.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 609,
+    "collectionId": "collection_1",
+    "categoryId": "category_6",
+    "popular": "popular_1",
+    "newArrivals": true,
+    "sizes": ["size_1", "size_2", "size_5"],
+    "colors": ["color_1", "color_2", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_4",
+    "imgUrl": "assets/img/clothers/burnt1.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt1.webp" },
+      { "imgUrl": "assets/img/clothers/burnt1.webp" },
+      { "imgUrl": "assets/img/clothers/burnt1.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "10.84" },
+    "articleNumber": "123449992378",
+    "rate": 3,
+    "numberOfSales": 890,
+    "collectionId": "collection_1",
+    "categoryId": "category_6",
+    "popular": "popular_1",
+    "newArrivals": true,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_5",
+    "imgUrl": "assets/img/clothers/burnt1.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt1.webp" },
+      { "imgUrl": "assets/img/clothers/burnt1.webp" },
+      { "imgUrl": "assets/img/clothers/burnt1.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "13.84" },
+    "articleNumber": "123449992378",
+    "rate": 3,
+    "numberOfSales": 768,
+    "collectionId": "collection_1",
+    "categoryId": "category_6",
+    "popular": "popular_1",
+    "newArrivals": true,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_6",
+    "imgUrl": "assets/img/clothers/burnt2.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt2.webp" },
+      { "imgUrl": "assets/img/clothers/burnt2.webp" },
+      { "imgUrl": "assets/img/clothers/burnt2.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "13.84" },
+    "articleNumber": "123449992378",
+    "rate": 5,
+    "numberOfSales": 853,
+    "collectionId": "collection_1",
+    "categoryId": "category_7",
+    "popular": "popular_1",
+    "newArrivals": true,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_7",
+    "imgUrl": "assets/img/clothers/burnt2.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt2.webp" },
+      { "imgUrl": "assets/img/clothers/burnt2.webp" },
+      { "imgUrl": "assets/img/clothers/burnt2.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "16.84" },
+    "articleNumber": "123449992378",
+    "rate": 3,
+    "numberOfSales": 756,
+    "collectionId": "collection_1",
+    "categoryId": "category_7",
+    "popular": "popular_1",
+    "newArrivals": true,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_8",
+    "imgUrl": "assets/img/clothers/burnt2.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt2.webp" },
+      { "imgUrl": "assets/img/clothers/burnt2.webp" },
+      { "imgUrl": "assets/img/clothers/burnt2.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 901,
+    "collectionId": "collection_1",
+    "categoryId": "category_7",
+    "popular": "popular_1",
+    "newArrivals": true,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_9",
+    "imgUrl": "assets/img/clothers/burnt2.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt2.webp" },
+      { "imgUrl": "assets/img/clothers/burnt2.webp" },
+      { "imgUrl": "assets/img/clothers/burnt2.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 1,
+    "numberOfSales": 355,
+    "collectionId": "collection_1",
+    "categoryId": "category_7",
+    "popular": "popular_1",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_10",
+    "imgUrl": "assets/img/clothers/burnt2.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt2.webp" },
+      { "imgUrl": "assets/img/clothers/burnt2.webp" },
+      { "imgUrl": "assets/img/clothers/burnt2.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 0,
+    "numberOfSales": 813,
+    "collectionId": "collection_1",
+    "categoryId": "category_7",
+    "popular": "popular_1",
+    "newArrivals": true,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_11",
+    "imgUrl": "assets/img/clothers/burnt3.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 4,
+    "numberOfSales": 491,
+    "collectionId": "collection_1",
+    "categoryId": "category_8",
+    "popular": "popular_1",
+    "newArrivals": false,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_12",
+    "imgUrl": "assets/img/clothers/burnt3.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 0,
+    "numberOfSales": 434,
+    "collectionId": "collection_1",
+    "categoryId": "category_8",
+    "popular": "popular_1",
+    "newArrivals": false,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_13",
+    "imgUrl": "assets/img/clothers/burnt3.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 315,
+    "collectionId": "collection_1",
+    "categoryId": "category_8",
+    "popular": "popular_1",
+    "newArrivals": false,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_14",
+    "imgUrl": "assets/img/clothers/burnt3.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 4,
+    "numberOfSales": 87,
+    "collectionId": "collection_1",
+    "categoryId": "category_8",
+    "popular": "popular_1",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_15",
+    "imgUrl": "assets/img/clothers/burnt3.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 146,
+    "collectionId": "collection_1",
+    "categoryId": "category_8",
+    "popular": "popular_1",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_16",
+    "imgUrl": "assets/img/clothers/burnt4.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt4.webp" },
+      { "imgUrl": "assets/img/clothers/burnt4.webp" },
+      { "imgUrl": "assets/img/clothers/burnt4.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 0,
+    "numberOfSales": 486,
+    "collectionId": "collection_1",
+    "categoryId": "category_2",
+    "popular": "popular_1",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_17",
+    "imgUrl": "assets/img/clothers/burnt4.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt4.webp" },
+      { "imgUrl": "assets/img/clothers/burnt4.webp" },
+      { "imgUrl": "assets/img/clothers/burnt4.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 540,
+    "collectionId": "collection_1",
+    "categoryId": "category_2",
+    "popular": "popular_1",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_18",
+    "imgUrl": "assets/img/clothers/burnt4.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt4.webp" },
+      { "imgUrl": "assets/img/clothers/burnt4.webp" },
+      { "imgUrl": "assets/img/clothers/burnt4.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 1,
+    "numberOfSales": 41,
+    "collectionId": "collection_1",
+    "categoryId": "category_2",
+    "popular": "popular_1",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_19",
+    "imgUrl": "assets/img/clothers/burnt4.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt4.webp" },
+      { "imgUrl": "assets/img/clothers/burnt4.webp" },
+      { "imgUrl": "assets/img/clothers/burnt4.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 3,
+    "numberOfSales": 637,
+    "collectionId": "collection_1",
+    "categoryId": "category_2",
+    "popular": "popular_1",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_20",
+    "imgUrl": "assets/img/clothers/burnt4.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt4.webp" },
+      { "imgUrl": "assets/img/clothers/burnt4.webp" },
+      { "imgUrl": "assets/img/clothers/burnt4.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 5,
+    "numberOfSales": 914,
+    "collectionId": "collection_1",
+    "categoryId": "category_2",
+    "popular": "popular_1",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_21",
+    "imgUrl": "assets/img/clothers/burnt5.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt5.webp" },
+      { "imgUrl": "assets/img/clothers/burnt5.webp" },
+      { "imgUrl": "assets/img/clothers/burnt5.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 4,
+    "numberOfSales": 803,
+    "collectionId": "collection_1",
+    "categoryId": "category_3",
+    "popular": "popular_1",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_22",
+    "imgUrl": "assets/img/clothers/burnt5.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt5.webp" },
+      { "imgUrl": "assets/img/clothers/burnt5.webp" },
+      { "imgUrl": "assets/img/clothers/burnt5.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 699,
+    "collectionId": "collection_1",
+    "categoryId": "category_3",
+    "popular": "popular_1",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_23",
+    "imgUrl": "assets/img/clothers/burnt6.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt6.webp" },
+      { "imgUrl": "assets/img/clothers/burnt6.webp" },
+      { "imgUrl": "assets/img/clothers/burnt6.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 0,
+    "numberOfSales": 656,
+    "collectionId": "collection_1",
+    "categoryId": "category_3",
+    "popular": "popular_1",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_24",
+    "imgUrl": "assets/img/clothers/burnt6.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt6.webp" },
+      { "imgUrl": "assets/img/clothers/burnt6.webp" },
+      { "imgUrl": "assets/img/clothers/burnt6.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 3,
+    "numberOfSales": 980,
+    "collectionId": "collection_1",
+    "categoryId": "category_3",
+    "popular": "popular_1",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_25",
+    "imgUrl": "assets/img/clothers/burnt6.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt6.webp" },
+      { "imgUrl": "assets/img/clothers/burnt6.webp" },
+      { "imgUrl": "assets/img/clothers/burnt6.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 4,
+    "numberOfSales": 508,
+    "collectionId": "collection_1",
+    "categoryId": "category_3",
+    "popular": "popular_1",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_26",
+    "imgUrl": "assets/img/clothers/burnt7.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt7.webp" },
+      { "imgUrl": "assets/img/clothers/burnt7.webp" },
+      { "imgUrl": "assets/img/clothers/burnt7.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 4,
+    "numberOfSales": 723,
+    "collectionId": "collection_1",
+    "categoryId": "category_4",
+    "popular": "popular_2",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_27",
+    "imgUrl": "assets/img/clothers/burnt7.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt7.webp" },
+      { "imgUrl": "assets/img/clothers/burnt7.webp" },
+      { "imgUrl": "assets/img/clothers/burnt7.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 4,
+    "numberOfSales": 451,
+    "collectionId": "collection_1",
+    "categoryId": "category_4",
+    "popular": "popular_2",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_28",
+    "imgUrl": "assets/img/clothers/burnt8.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt8.webp" },
+      { "imgUrl": "assets/img/clothers/burnt8.webp" },
+      { "imgUrl": "assets/img/clothers/burnt8.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 0,
+    "numberOfSales": 67,
+    "collectionId": "collection_1",
+    "categoryId": "category_4",
+    "popular": "popular_2",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_29",
+    "imgUrl": "assets/img/clothers/burnt8.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt8.webp" },
+      { "imgUrl": "assets/img/clothers/burnt8.webp" },
+      { "imgUrl": "assets/img/clothers/burnt8.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 398,
+    "collectionId": "collection_1",
+    "categoryId": "category_4",
+    "popular": "popular_2",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_30",
+    "imgUrl": "assets/img/clothers/burnt8.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt8.webp" },
+      { "imgUrl": "assets/img/clothers/burnt8.webp" },
+      { "imgUrl": "assets/img/clothers/burnt8.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 4,
+    "numberOfSales": 44,
+    "collectionId": "collection_1",
+    "categoryId": "category_4",
+    "popular": "popular_2",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_31",
+    "imgUrl": "assets/img/clothers/burnt9.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt9.webp" },
+      { "imgUrl": "assets/img/clothers/burnt9.webp" },
+      { "imgUrl": "assets/img/clothers/burnt9.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 1,
+    "numberOfSales": 953,
+    "collectionId": "collection_1",
+    "categoryId": "category_5",
+    "popular": "popular_2",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_32",
+    "imgUrl": "assets/img/clothers/burnt10.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt10.webp" },
+      { "imgUrl": "assets/img/clothers/burnt10.webp" },
+      { "imgUrl": "assets/img/clothers/burnt10.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 3,
+    "numberOfSales": 283,
+    "collectionId": "collection_1",
+    "categoryId": "category_5",
+    "popular": "popular_2",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_33",
+    "imgUrl": "assets/img/clothers/burnt10.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt10.webp" },
+      { "imgUrl": "assets/img/clothers/burnt10.webp" },
+      { "imgUrl": "assets/img/clothers/burnt10.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 5,
+    "numberOfSales": 495,
+    "collectionId": "collection_1",
+    "categoryId": "category_5",
+    "popular": "popular_2",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_34",
+    "imgUrl": "assets/img/clothers/burnt10.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt10.webp" },
+      { "imgUrl": "assets/img/clothers/burnt10.webp" },
+      { "imgUrl": "assets/img/clothers/burnt10.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 0,
+    "numberOfSales": 603,
+    "collectionId": "collection_1",
+    "categoryId": "category_5",
+    "popular": "popular_2",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_35",
+    "imgUrl": "assets/img/clothers/burnt10.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt10.webp" },
+      { "imgUrl": "assets/img/clothers/burnt10.webp" },
+      { "imgUrl": "assets/img/clothers/burnt10.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 5,
+    "numberOfSales": 918,
+    "collectionId": "collection_1",
+    "categoryId": "category_5",
+    "popular": "popular_2",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_36",
+    "imgUrl": "assets/img/clothers/burnt11.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt11.webp" },
+      { "imgUrl": "assets/img/clothers/burnt11.webp" },
+      { "imgUrl": "assets/img/clothers/burnt11.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 3,
+    "numberOfSales": 306,
+    "collectionId": "collection_2",
+    "categoryId": "category_1",
+    "popular": "popular_2",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_37",
+    "imgUrl": "assets/img/clothers/burnt11.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt11.webp" },
+      { "imgUrl": "assets/img/clothers/burnt11.webp" },
+      { "imgUrl": "assets/img/clothers/burnt11.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 3,
+    "numberOfSales": 427,
+    "collectionId": "collection_2",
+    "categoryId": "category_1",
+    "popular": "popular_2",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_38",
+    "imgUrl": "assets/img/clothers/burnt11.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt11.webp" },
+      { "imgUrl": "assets/img/clothers/burnt11.webp" },
+      { "imgUrl": "assets/img/clothers/burnt11.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 5,
+    "numberOfSales": 281,
+    "collectionId": "collection_2",
+    "categoryId": "category_1",
+    "popular": "popular_2",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_39",
+    "imgUrl": "assets/img/clothers/burnt12.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt12.webp" },
+      { "imgUrl": "assets/img/clothers/burnt12.webp" },
+      { "imgUrl": "assets/img/clothers/burnt12.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 3,
+    "numberOfSales": 33,
+    "collectionId": "collection_2",
+    "categoryId": "category_1",
+    "popular": "popular_2",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_40",
+    "imgUrl": "assets/img/clothers/burnt13.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt13.webp" },
+      { "imgUrl": "assets/img/clothers/burnt13.webp" },
+      { "imgUrl": "assets/img/clothers/burnt13.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 5,
+    "numberOfSales": 465,
+    "collectionId": "collection_2",
+    "categoryId": "category_2",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_41",
+    "imgUrl": "assets/img/clothers/burnt13.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt13.webp" },
+      { "imgUrl": "assets/img/clothers/burnt13.webp" },
+      { "imgUrl": "assets/img/clothers/burnt13.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 0,
+    "numberOfSales": 712,
+    "collectionId": "collection_2",
+    "categoryId": "category_2",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_42",
+    "imgUrl": "assets/img/clothers/burnt14.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 5,
+    "numberOfSales": 822,
+    "collectionId": "collection_2",
+    "categoryId": "category_2",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_43",
+    "imgUrl": "assets/img/clothers/burnt14.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 3,
+    "numberOfSales": 629,
+    "collectionId": "collection_2",
+    "categoryId": "category_2",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_44",
+    "imgUrl": "assets/img/clothers/burnt14.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 3,
+    "numberOfSales": 550,
+    "collectionId": "collection_2",
+    "categoryId": "category_2",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_45",
+    "imgUrl": "assets/img/clothers/burnt15.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt15.webp" },
+      { "imgUrl": "assets/img/clothers/burnt15.webp" },
+      { "imgUrl": "assets/img/clothers/burnt15.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 4,
+    "numberOfSales": 96,
+    "collectionId": "collection_2",
+    "categoryId": "category_6",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_46",
+    "imgUrl": "assets/img/clothers/burnt15.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt15.webp" },
+      { "imgUrl": "assets/img/clothers/burnt15.webp" },
+      { "imgUrl": "assets/img/clothers/burnt15.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 4,
+    "numberOfSales": 772,
+    "collectionId": "collection_2",
+    "categoryId": "category_6",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_47",
+    "imgUrl": "assets/img/clothers/burnt15.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt15.webp" },
+      { "imgUrl": "assets/img/clothers/burnt15.webp" },
+      { "imgUrl": "assets/img/clothers/burnt15.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 1,
+    "numberOfSales": 420,
+    "collectionId": "collection_2",
+    "categoryId": "category_6",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_48",
+    "imgUrl": "assets/img/clothers/burnt15.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt15.webp" },
+      { "imgUrl": "assets/img/clothers/burnt15.webp" },
+      { "imgUrl": "assets/img/clothers/burnt15.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 5,
+    "numberOfSales": 768,
+    "collectionId": "collection_2",
+    "categoryId": "category_6",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_49",
+    "imgUrl": "assets/img/clothers/burnt15.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt15.webp" },
+      { "imgUrl": "assets/img/clothers/burnt15.webp" },
+      { "imgUrl": "assets/img/clothers/burnt15.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 231,
+    "collectionId": "collection_2",
+    "categoryId": "category_6",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_50",
+    "imgUrl": "assets/img/clothers/burnt16.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt16.webp" },
+      { "imgUrl": "assets/img/clothers/burnt16.webp" },
+      { "imgUrl": "assets/img/clothers/burnt16.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 5,
+    "numberOfSales": 712,
+    "collectionId": "collection_2",
+    "categoryId": "category_7",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_51",
+    "imgUrl": "assets/img/clothers/burnt16.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt16.webp" },
+      { "imgUrl": "assets/img/clothers/burnt16.webp" },
+      { "imgUrl": "assets/img/clothers/burnt16.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 271,
+    "collectionId": "collection_2",
+    "categoryId": "category_7",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_52",
+    "imgUrl": "assets/img/clothers/burnt16.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt16.webp" },
+      { "imgUrl": "assets/img/clothers/burnt16.webp" },
+      { "imgUrl": "assets/img/clothers/burnt16.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 741,
+    "collectionId": "collection_2",
+    "categoryId": "category_7",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_53",
+    "imgUrl": "assets/img/clothers/burnt16.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt16.webp" },
+      { "imgUrl": "assets/img/clothers/burnt16.webp" },
+      { "imgUrl": "assets/img/clothers/burnt16.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 606,
+    "collectionId": "collection_2",
+    "categoryId": "category_7",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_54",
+    "imgUrl": "assets/img/clothers/burnt16.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt16.webp" },
+      { "imgUrl": "assets/img/clothers/burnt16.webp" },
+      { "imgUrl": "assets/img/clothers/burnt16.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 0,
+    "numberOfSales": 902,
+    "collectionId": "collection_2",
+    "categoryId": "category_7",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_55",
+    "imgUrl": "assets/img/clothers/burnt17.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt17.webp" },
+      { "imgUrl": "assets/img/clothers/burnt17.webp" },
+      { "imgUrl": "assets/img/clothers/burnt17.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 4,
+    "numberOfSales": 630,
+    "collectionId": "collection_2",
+    "categoryId": "category_8",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_56",
+    "imgUrl": "assets/img/clothers/burnt17.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt17.webp" },
+      { "imgUrl": "assets/img/clothers/burnt17.webp" },
+      { "imgUrl": "assets/img/clothers/burnt17.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 593,
+    "collectionId": "collection_2",
+    "categoryId": "category_8",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_57",
+    "imgUrl": "assets/img/clothers/burnt17.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt17.webp" },
+      { "imgUrl": "assets/img/clothers/burnt17.webp" },
+      { "imgUrl": "assets/img/clothers/burnt17.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 513,
+    "collectionId": "collection_2",
+    "categoryId": "category_8",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_58",
+    "imgUrl": "assets/img/clothers/burnt17.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt17.webp" },
+      { "imgUrl": "assets/img/clothers/burnt17.webp" },
+      { "imgUrl": "assets/img/clothers/burnt17.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 4,
+    "numberOfSales": 860,
+    "collectionId": "collection_2",
+    "categoryId": "category_8",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_59",
+    "imgUrl": "assets/img/clothers/burnt17.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt17.webp" },
+      { "imgUrl": "assets/img/clothers/burnt17.webp" },
+      { "imgUrl": "assets/img/clothers/burnt17.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 4,
+    "numberOfSales": 680,
+    "collectionId": "collection_2",
+    "categoryId": "category_8",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_60",
+    "imgUrl": "assets/img/clothers/burnt18.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt18.webp" },
+      { "imgUrl": "assets/img/clothers/burnt18.webp" },
+      { "imgUrl": "assets/img/clothers/burnt18.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 3,
+    "numberOfSales": 230,
+    "collectionId": "collection_2",
+    "categoryId": "category_4",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_61",
+    "imgUrl": "assets/img/clothers/burnt18.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt18.webp" },
+      { "imgUrl": "assets/img/clothers/burnt18.webp" },
+      { "imgUrl": "assets/img/clothers/burnt18.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 1,
+    "numberOfSales": 779,
+    "collectionId": "collection_2",
+    "categoryId": "category_4",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_62",
+    "imgUrl": "assets/img/clothers/burnt18.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt18.webp" },
+      { "imgUrl": "assets/img/clothers/burnt18.webp" },
+      { "imgUrl": "assets/img/clothers/burnt18.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 1,
+    "numberOfSales": 718,
+    "collectionId": "collection_2",
+    "categoryId": "category_4",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_63",
+    "imgUrl": "assets/img/clothers/burnt18.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt18.webp" },
+      { "imgUrl": "assets/img/clothers/burnt18.webp" },
+      { "imgUrl": "assets/img/clothers/burnt18.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 5,
+    "numberOfSales": 246,
+    "collectionId": "collection_2",
+    "categoryId": "category_4",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_64",
+    "imgUrl": "assets/img/clothers/burnt18.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt18.webp" },
+      { "imgUrl": "assets/img/clothers/burnt18.webp" },
+      { "imgUrl": "assets/img/clothers/burnt18.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 85,
+    "collectionId": "collection_2",
+    "categoryId": "category_4",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_65",
+    "imgUrl": "assets/img/clothers/burnt19.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt19.webp" },
+      { "imgUrl": "assets/img/clothers/burnt19.webp" },
+      { "imgUrl": "assets/img/clothers/burnt19.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 4,
+    "numberOfSales": 497,
+    "collectionId": "collection_2",
+    "categoryId": "category_5",
+    "popular": "popular_4",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_66",
+    "imgUrl": "assets/img/clothers/burnt19.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt19.webp" },
+      { "imgUrl": "assets/img/clothers/burnt19.webp" },
+      { "imgUrl": "assets/img/clothers/burnt19.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 3,
+    "numberOfSales": 641,
+    "collectionId": "collection_2",
+    "categoryId": "category_5",
+    "popular": "popular_4",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_67",
+    "imgUrl": "assets/img/clothers/burnt19.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt19.webp" },
+      { "imgUrl": "assets/img/clothers/burnt19.webp" },
+      { "imgUrl": "assets/img/clothers/burnt19.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 0,
+    "numberOfSales": 305,
+    "collectionId": "collection_2",
+    "categoryId": "category_5",
+    "popular": "popular_4",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_68",
+    "imgUrl": "assets/img/clothers/burnt19.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt19.webp" },
+      { "imgUrl": "assets/img/clothers/burnt19.webp" },
+      { "imgUrl": "assets/img/clothers/burnt19.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 0,
+    "numberOfSales": 490,
+    "collectionId": "collection_2",
+    "categoryId": "category_5",
+    "popular": "popular_4",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_69",
+    "imgUrl": "assets/img/clothers/burnt19.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt19.webp" },
+      { "imgUrl": "assets/img/clothers/burnt19.webp" },
+      { "imgUrl": "assets/img/clothers/burnt19.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 1,
+    "numberOfSales": 662,
+    "collectionId": "collection_2",
+    "categoryId": "category_5",
+    "popular": "popular_4",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_70",
+    "imgUrl": "assets/img/clothers/burnt20.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt20.webp" },
+      { "imgUrl": "assets/img/clothers/burnt20.webp" },
+      { "imgUrl": "assets/img/clothers/burnt20.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 150,
+    "collectionId": "collection_3",
+    "categoryId": "category_5",
+    "popular": "popular_4",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_71",
+    "imgUrl": "assets/img/clothers/burnt20.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt20.webp" },
+      { "imgUrl": "assets/img/clothers/burnt20.webp" },
+      { "imgUrl": "assets/img/clothers/burnt20.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 4,
+    "numberOfSales": 33,
+    "collectionId": "collection_3",
+    "categoryId": "category_5",
+    "popular": "popular_4",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_72",
+    "imgUrl": "assets/img/clothers/burnt20.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt20.webp" },
+      { "imgUrl": "assets/img/clothers/burnt20.webp" },
+      { "imgUrl": "assets/img/clothers/burnt20.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 1,
+    "numberOfSales": 990,
+    "collectionId": "collection_3",
+    "categoryId": "category_5",
+    "popular": "popular_4",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_73",
+    "imgUrl": "assets/img/clothers/burnt3.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 4,
+    "numberOfSales": 764,
+    "collectionId": "collection_3",
+    "categoryId": "category_1",
+    "popular": "popular_1",
+    "newArrivals": false,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_74",
+    "imgUrl": "assets/img/clothers/burnt3.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 3,
+    "numberOfSales": 173,
+    "collectionId": "collection_3",
+    "categoryId": "category_1",
+    "popular": "popular_1",
+    "newArrivals": false,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_75",
+    "imgUrl": "assets/img/clothers/burnt3.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 3,
+    "numberOfSales": 873,
+    "collectionId": "collection_3",
+    "categoryId": "category_1",
+    "popular": "popular_1",
+    "newArrivals": false,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_76",
+    "imgUrl": "assets/img/clothers/burnt3.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 3,
+    "numberOfSales": 762,
+    "collectionId": "collection_3",
+    "categoryId": "category_1",
+    "popular": "popular_1",
+    "newArrivals": false,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_77",
+    "imgUrl": "assets/img/clothers/burnt3.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 5,
+    "numberOfSales": 222,
+    "collectionId": "collection_3",
+    "categoryId": "category_1",
+    "popular": "popular_1",
+    "newArrivals": false,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_78",
+    "imgUrl": "assets/img/clothers/burnt3.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 458,
+    "collectionId": "collection_1",
+    "categoryId": "category_9",
+    "popular": "popular_1",
+    "newArrivals": false,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_79",
+    "imgUrl": "assets/img/clothers/burnt3.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 883,
+    "collectionId": "collection_1",
+    "categoryId": "category_9",
+    "popular": "popular_1",
+    "newArrivals": false,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_80",
+    "imgUrl": "assets/img/clothers/burnt3.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 674,
+    "collectionId": "collection_1",
+    "categoryId": "category_9",
+    "popular": "popular_1",
+    "newArrivals": false,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_81",
+    "imgUrl": "assets/img/clothers/burnt3.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 0,
+    "numberOfSales": 873,
+    "collectionId": "collection_1",
+    "categoryId": "category_9",
+    "popular": "popular_1",
+    "newArrivals": false,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_82",
+    "imgUrl": "assets/img/clothers/burnt3.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" },
+      { "imgUrl": "assets/img/clothers/burnt3.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 5,
+    "numberOfSales": 929,
+    "collectionId": "collection_1",
+    "categoryId": "category_9",
+    "popular": "popular_1",
+    "newArrivals": false,
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_83",
+    "imgUrl": "assets/img/clothers/burnt14.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 5,
+    "numberOfSales": 897,
+    "collectionId": "collection_2",
+    "categoryId": "category_9",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_84",
+    "imgUrl": "assets/img/clothers/burnt14.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 4,
+    "numberOfSales": 395,
+    "collectionId": "collection_2",
+    "categoryId": "category_9",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_85",
+    "imgUrl": "assets/img/clothers/burnt14.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 5,
+    "numberOfSales": 892,
+    "collectionId": "collection_2",
+    "categoryId": "category_9",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_86",
+    "imgUrl": "assets/img/clothers/burnt14.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 1,
+    "numberOfSales": 574,
+    "collectionId": "collection_2",
+    "categoryId": "category_9",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_87",
+    "imgUrl": "assets/img/clothers/burnt14.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 2,
+    "numberOfSales": 60,
+    "collectionId": "collection_2",
+    "categoryId": "category_9",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_88",
+    "imgUrl": "assets/img/clothers/burnt14.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 5,
+    "numberOfSales": 115,
+    "collectionId": "collection_3",
+    "categoryId": "category_8",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_89",
+    "imgUrl": "assets/img/clothers/burnt14.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 5,
+    "numberOfSales": 138,
+    "collectionId": "collection_3",
+    "categoryId": "category_8",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_90",
+    "imgUrl": "assets/img/clothers/burnt14.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 1,
+    "numberOfSales": 702,
+    "collectionId": "collection_3",
+    "categoryId": "category_8",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_91",
+    "imgUrl": "assets/img/clothers/burnt14.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 0,
+    "numberOfSales": 524,
+    "collectionId": "collection_3",
+    "categoryId": "category_8",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_92",
+    "imgUrl": "assets/img/clothers/burnt14.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" },
+      { "imgUrl": "assets/img/clothers/burnt14.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "prices": { "price": "28.89", "newPrice": "20.84" },
+    "articleNumber": "123449992378",
+    "rate": 5,
+    "numberOfSales": 2,
+    "collectionId": "collection_3",
+    "categoryId": "category_8",
+    "popular": "popular_3",
+    "sizes": ["size_1", "size_2", "size_3", "size_4", "size_5"],
+    "colors": ["color_1", "color_2", "color_3", "color_4", "color_5"],
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_93",
+    "imgUrl": "assets/img/clothers/burnt4.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt4.webp" },
+      { "imgUrl": "assets/img/clothers/burnt4.webp" },
+      { "imgUrl": "assets/img/clothers/burnt4.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "articleNumber": "123449992378",
+    "collectionId": "collection_4",
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_94",
+    "imgUrl": "assets/img/clothers/burnt17.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt17.webp" },
+      { "imgUrl": "assets/img/clothers/burnt17.webp" },
+      { "imgUrl": "assets/img/clothers/burnt17.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "articleNumber": "123449992378",
+    "collectionId": "collection_4",
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_95",
+    "imgUrl": "assets/img/clothers/burnt8.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt8.webp" },
+      { "imgUrl": "assets/img/clothers/burnt8.webp" },
+      { "imgUrl": "assets/img/clothers/burnt8.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "articleNumber": "123449992378",
+    "collectionId": "collection_4",
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_96",
+    "imgUrl": "assets/img/clothers/burnt4.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt4.webp" },
+      { "imgUrl": "assets/img/clothers/burnt4.webp" },
+      { "imgUrl": "assets/img/clothers/burnt4.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "articleNumber": "123449992378",
+    "collectionId": "collection_4",
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_97",
+    "imgUrl": "assets/img/clothers/burnt17.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt17.webp" },
+      { "imgUrl": "assets/img/clothers/burnt17.webp" },
+      { "imgUrl": "assets/img/clothers/burnt17.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "articleNumber": "123449992378",
+    "collectionId": "collection_4",
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  },
+  {
+    "id": "product_98",
+    "imgUrl": "assets/img/clothers/burnt8.webp",
+    "otherImg": [
+      { "imgUrl": "assets/img/clothers/burnt8.webp" },
+      { "imgUrl": "assets/img/clothers/burnt8.webp" },
+      { "imgUrl": "assets/img/clothers/burnt8.webp" }
+    ],
+    "name": "Double-Layered Top",
+    "articleNumber": "123449992378",
+    "collectionId": "collection_4",
+    "description": "Classic casual t-shirt for women on the move. 100% cotton. Donec sem lorem laoreet tempor un risus vitae, rutrum sodales nibh suspendisse est congue metus nunc, id viverra elit loreti rhoncus quis consecteur es. Donec pulvinar tempor lorem a pretium justo interdum."
+  }
+]

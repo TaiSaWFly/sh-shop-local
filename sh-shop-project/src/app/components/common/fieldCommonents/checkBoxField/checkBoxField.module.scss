@@ -1,0 +1,44 @@
+@import "../../../../../styles/colors.scss";
+
+.checkbox_field {
+  display: flex;
+  justify-content: space-around;
+  // position: relative;
+}
+
+.checkbox {
+  position: absolute;
+  opacity: 0;
+  z-index: -1;
+
+  & + label {
+    display: inline-flex;
+    align-items: center;
+    color: $secondary;
+
+    &::before {
+      content: "";
+      display: inline-block;
+      width: 15px;
+      height: 15px;
+      border: 1px solid #c9c7c7;
+      border-radius: 4px;
+      margin-right: 5px;
+      cursor: pointer;
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: 50% 50%;
+    }
+  }
+
+  &:checked + label::before {
+    border-color: $hoverBlue;
+    background-color: $hoverBlue;
+    background-image: url("../../../../../assets/svg_icons/checkmark.svg");
+  }
+}
+
+.checkbox_field__error {
+  font-size: 1.3rem;
+  color: $danger;
+}

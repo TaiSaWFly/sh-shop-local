@@ -1,0 +1,45 @@
+@import "./colors.scss";
+
+@mixin conteiner {
+  width: 100%;
+  max-width: 1770px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+@mixin basket_conteiner {
+  width: 100%;
+  max-width: 1420px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+@mixin add-arrow {
+  content: "";
+  width: 8px;
+  height: 8px;
+  background: transparent;
+  border: 2px solid transparent;
+  border-bottom-color: $secondary;
+  border-right-color: $secondary;
+  border-radius: 1px;
+
+  position: absolute;
+}
+
+@mixin add-arrow-triangle {
+  content: "";
+  border-style: solid;
+  border-width: 5px 0 5px 6px;
+  border-color: transparent transparent transparent $secondary;
+
+  position: absolute;
+}
+
+@mixin border-top-decor-componnent {
+  border-top: 1px solid $quaternary;
+}
+
+@mixin border-bottom-decor-componnent {
+  border-bottom: 1px solid $quaternary;
+}

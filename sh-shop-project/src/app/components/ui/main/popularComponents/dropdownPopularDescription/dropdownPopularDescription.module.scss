@@ -1,0 +1,40 @@
+@import "../../../../../../styles/colors.scss";
+
+.dropdown {
+  width: 70%;
+  position: absolute;
+  opacity: 0;
+  transform: translateY(-100%);
+}
+
+.show {
+  width: 70%;
+  opacity: 0;
+  transform: translateY(-100%);
+  overflow: visible;
+}
+
+.show__appearance {
+  opacity: 1;
+  transform: translateY(-2.5%);
+  box-shadow: 0 0 10px $hoverBoxShadow;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+  transition: transform 0.35s ease-in-out, box-shadow 0.35s ease-in-out,
+    opacity 0.35s ease-in-out;
+}
+
+.hide__disappearance {
+  opacity: 0;
+  transform: translateY(-100%);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+  transition: transform 0.4s ease-in-out, box-shadow 0.4s ease-in-out,
+    opacity 0.34s ease-in-out;
+}
+
+.hide {
+  display: none;
+}

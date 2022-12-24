@@ -1,0 +1,86 @@
+@import "../../../../../styles/colors.scss";
+
+.account_link__wrapper {
+  display: flex;
+  padding: 15px 0;
+  margin-right: 60px;
+}
+
+.account_link {
+  display: flex;
+
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: $tertiary;
+}
+
+.account_link__action {
+  display: flex;
+  margin-right: 5px;
+
+  color: $tertiary;
+  transition: color 0.2s ease-in-out;
+
+  & .account_link__wrapper_icon {
+    color: $tertiary;
+  }
+
+  &:hover {
+    color: $hoverBlue;
+  }
+}
+
+.account_link__wrapper_icon {
+  width: 20px;
+  margin-right: 5px;
+  position: relative;
+}
+
+.account_link__icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  transform: translate3d(-50%, -50%, 0);
+}
+
+.account_link__logout {
+  cursor: pointer;
+
+  & span {
+    color: $orange;
+    position: relative;
+
+    &:hover {
+      &::before {
+        min-width: 100%;
+      }
+    }
+
+    &::before {
+      content: "";
+      height: 1px;
+      min-width: 0%;
+      background: $orange;
+
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      transition: min-width 0.2s ease-in-out;
+    }
+  }
+}
+
+.account_link__actions {
+  margin-right: 30px;
+  transition: color 0.2s ease-in-out;
+
+  &:last-of-type {
+    margin-right: 0;
+  }
+
+  &:hover {
+    color: $hoverBlue;
+  }
+}

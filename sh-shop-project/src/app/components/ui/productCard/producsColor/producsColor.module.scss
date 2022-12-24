@@ -1,0 +1,61 @@
+@import "../../../../../styles/colors.scss";
+
+.product_color {
+  margin-bottom: 40px;
+}
+
+.product_color__list {
+  display: flex;
+  align-items: center;
+}
+
+.product_color__title {
+  margin-right: 20px;
+  font-size: 2.1rem;
+  text-transform: uppercase;
+}
+
+.product_color___list_item {
+  width: 35px;
+  height: 35px;
+  margin-right: 10px;
+
+  position: relative;
+  cursor: pointer;
+  border: 1px solid $primary;
+
+  transition: box-shadow 0.2s ease-in-out;
+
+  &:last-of-type {
+    margin-right: 0;
+  }
+
+  & div {
+    width: 100%;
+    height: 100%;
+  }
+
+  &:hover {
+    box-shadow: 0 0 10px $secondary;
+  }
+}
+
+.product_color___list_item__active {
+  width: 35px;
+  height: 35px;
+  margin-right: 10px;
+
+  position: relative;
+  cursor: pointer;
+  border: 1px solid transparent;
+  box-shadow: 0 0 15px $blue;
+
+  &:last-of-type {
+    margin-right: 0;
+  }
+
+  & div {
+    width: 100%;
+    height: 100%;
+  }
+}

@@ -1,0 +1,28 @@
+//@imports
+@import "./fonts.scss";
+@import "./colors.scss";
+@import "./styleDefault.scss";
+
+html {
+  font-size: 10px;
+}
+
+body {
+  margin: 0;
+  cursor: default;
+
+  font-family: "Lato Regular", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2;
+  color: $primary;
+  -webkit-font-smoothing: subpixel-antialiased;
+  -webkid-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}

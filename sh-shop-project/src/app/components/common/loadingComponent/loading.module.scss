@@ -1,0 +1,91 @@
+@import "../../../../styles/colors.scss";
+
+.loading {
+  margin: 50px 0;
+  height: 20vh;
+  position: relative;
+  z-index: 1000;
+}
+
+.loading_wrapper {
+  width: 50px;
+  height: 50px;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.spinner {
+  width: 100%;
+  height: 100%;
+
+  animation: rotate 2s linear infinite;
+
+  & .path {
+    stroke: $blue;
+    stroke-linecap: round;
+    animation: dash 1.5s ease-in-out infinite;
+  }
+}
+
+@keyframes rotate {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes dash {
+  0% {
+    stroke-dasharray: 1, 150;
+    stroke-dashoffset: 0;
+  }
+  50% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -35;
+  }
+  100% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -124;
+  }
+}
+
+.auth_layout__modal {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background: $quaternary;
+  overflow: auto;
+
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  left: 0;
+}
+
+.auth_layout__modal_wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 200px 0;
+}
+
+.auth_layout__logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+  margin-bottom: 50px;
+  width: 200px;
+  height: 200px;
+
+  background: $primary;
+  border: 10px solid $tertiary;
+
+  & div {
+    font-size: 70px;
+    text-transform: uppercase;
+    color: $tertiary;
+  }
+}

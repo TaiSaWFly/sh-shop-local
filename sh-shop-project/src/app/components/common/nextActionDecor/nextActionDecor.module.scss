@@ -1,0 +1,42 @@
+@import "../../../../styles/colors.scss";
+
+.next_action_decor {
+  margin: 70px 0;
+  text-align: center;
+
+  & span {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 2px solid $orange;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    transform: rotate(45deg);
+
+    position: relative;
+
+    &::after,
+    &::before {
+      content: "";
+      display: block;
+      width: 30px;
+      height: 30px;
+      border: 2px solid $orange;
+      border-top-color: transparent;
+      border-left-color: transparent;
+
+      position: absolute;
+      z-index: 1;
+    }
+
+    &::after {
+      bottom: 100%;
+      left: 100%;
+    }
+
+    &::before {
+      bottom: -115%;
+      left: -115%;
+    }
+  }
+}

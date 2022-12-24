@@ -1,0 +1,40 @@
+@import "../../../../../styles/colors.scss";
+@import "../../../../../styles/mixins.scss";
+
+.news_letter {
+  padding: 130px 0 60px 0;
+  text-align: center;
+}
+
+.news_letter__titlle_wpapper {
+  margin-bottom: 50px;
+}
+
+.news_letter__form_wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.news_letter__form {
+  display: flex;
+}
+
+.news_letter__form_input {
+  width: 470px;
+  padding: 2rem 1rem;
+  border-right: none;
+  border-radius: 0;
+}
+
+.news_letter__form_button {
+  color: $tertiary;
+  background: $hoverBlue;
+  border-color: transparent;
+
+  transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+
+  &:hover {
+    background: $orange;
+    border-color: $orange;
+  }
+}

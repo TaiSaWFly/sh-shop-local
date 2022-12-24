@@ -1,0 +1,52 @@
+@import "../../../../../styles/colors.scss";
+
+.add_favourite_button {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  padding: 5px;
+  cursor: pointer;
+
+  background: transparent;
+  border: 1px solid $primary;
+  border-radius: 50%;
+  position: relative;
+
+  transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
+
+  &:hover {
+    background: $danger;
+    border-color: $danger;
+
+    .add_favourite_button__icon {
+      fill: $hoverWhite;
+    }
+  }
+}
+
+.add_favourite_button__active {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  padding: 5px;
+  cursor: pointer;
+
+  background: $danger;
+  border: 1px solid $danger;
+  border-radius: 50%;
+  position: relative;
+
+  .add_favourite_button__icon {
+    fill: $hoverWhite;
+  }
+}
+
+.add_favourite_button__icon {
+  fill: $primary;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  transition: fill 0.3s ease-in-out;
+}

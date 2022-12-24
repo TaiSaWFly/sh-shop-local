@@ -1,0 +1,63 @@
+@import "../../../../../styles/colors.scss";
+
+.reviews_page__add_review {
+  margin-bottom: 20px;
+
+  & button {
+    padding: 1.5rem 2rem;
+    color: $tertiary;
+    background: $hoverBlue;
+    border-color: transparent;
+
+    transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+
+    &:hover {
+      color: $hoverBlue;
+      background: transparent;
+      border-color: $hoverBlue;
+    }
+  }
+}
+
+.reviews_page__not_add {
+  font-family: "Lato Light Italic";
+  font-size: 2.4rem;
+
+  padding: 15px;
+  margin-bottom: 20px;
+
+  border: 1px solid $quaternary;
+}
+
+.reviews_page__not_add__link {
+  display: inline;
+  font-family: "Lato Bold";
+  font-size: 2rem;
+  color: $orange;
+
+  position: relative;
+
+  &:hover {
+    &::after {
+      min-width: 100%;
+    }
+  }
+
+  &::after {
+    content: "";
+    min-width: 0%;
+    height: 1px;
+    background: $orange;
+
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+
+    transition: min-width 0.3s ease-in-out;
+  }
+}
+
+.reviews_page__error {
+  font-size: 2rem;
+  color: $danger;
+}

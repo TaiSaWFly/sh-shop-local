@@ -1,0 +1,32 @@
+@import "../../../../styles/colors.scss";
+
+.description {
+  width: 100%;
+  padding: 20px 35px;
+  font-size: 1.3rem;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+
+  background: $tertiary;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.description_title {
+  font-size: 1.6rem;
+  margin-bottom: 10px;
+}
+
+.product_description {
+  margin: 15px 0;
+  line-height: 1.5em;
+  font-size: 1.5rem;
+  font-weight: 400;
+  text-transform: none;
+}
+
+.product_description__actions {
+  display: flex;
+  justify-content: space-around;
+}

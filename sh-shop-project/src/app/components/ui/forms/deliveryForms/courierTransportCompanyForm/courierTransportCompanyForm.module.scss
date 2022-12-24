@@ -1,0 +1,45 @@
+@import "../../../../../../styles/colors.scss";
+
+.transport_company_form {
+  & button {
+    display: inline-block;
+    margin-bottom: 10px;
+    padding: 2rem 8rem;
+    color: $tertiary;
+
+    border: 1px solid transparent;
+    background: $orange;
+
+    &:hover {
+      color: $orange;
+      background: transparent;
+      border-color: $orange;
+    }
+  }
+}
+
+.transport_company_form__field {
+  margin-bottom: 35px;
+}
+
+.transport_company_form__two_field_collective {
+  display: flex;
+  margin: 0 -10px;
+
+  & .transport_company_form__field {
+    width: 50%;
+    padding: 0 10px;
+    margin-bottom: 35px;
+  }
+}
+
+.transport_company_form__three_field_collective {
+  display: flex;
+  margin: 0 -10px;
+
+  & .transport_company_form__field {
+    width: 33.33333%;
+    padding: 0 10px;
+    margin-bottom: 35px;
+  }
+}

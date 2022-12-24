@@ -1,0 +1,17 @@
+@import "../../../../../styles/colors.scss";
+
+.product_title__wrapper {
+  margin-bottom: 20px;
+}
+
+.product_title {
+  font-size: 3.2rem;
+  line-height: 1.3;
+  text-transform: uppercase;
+}
+
+.product_article_number {
+  font-family: "Lato Light Italic";
+  font-size: 1.5rem;
+  color: $secondary;
+}

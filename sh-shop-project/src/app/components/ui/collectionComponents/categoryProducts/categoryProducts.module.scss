@@ -1,0 +1,62 @@
+@import "../../../../../styles/colors.scss";
+@import "../../../../../styles/mixins.scss";
+
+.category_products__wrapper {
+  margin-bottom: 50px;
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+.category_products__info {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 60px;
+}
+
+.category_products__info_title {
+  font-weight: 700;
+  font-size: 3.6rem;
+}
+
+.category_products__info_show_more {
+  font-family: "Georgia Italic";
+  font-size: 1.8rem;
+  line-height: 0.8;
+
+  a {
+    display: inline-block;
+    position: relative;
+
+    &::after {
+      content: "";
+      min-width: 0%;
+      height: 1px;
+      background: $hoverBlue;
+
+      position: absolute;
+      bottom: -3px;
+      left: 0;
+      transition: min-width 0.3s ease-in-out;
+    }
+
+    &::before {
+      @include add-arrow-triangle;
+      top: 50%;
+      right: -15px;
+      margin-top: -5px;
+      transition: border-color 0.3s ease-in-out;
+    }
+
+    &:hover {
+      &::after {
+        min-width: 100%;
+      }
+
+      &::before {
+        border-color: transparent transparent transparent $hoverBlue;
+      }
+    }
+  }
+}

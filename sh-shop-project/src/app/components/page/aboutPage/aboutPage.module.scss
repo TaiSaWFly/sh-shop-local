@@ -1,0 +1,49 @@
+@import "../../../../styles/colors.scss";
+@import "../../../../styles/mixins.scss";
+
+.about_page {
+  padding: 60px 0;
+  text-align: center;
+  @include border-bottom-decor-componnent;
+}
+
+.about_page_conteiner {
+  @include conteiner;
+}
+
+.about_page__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  margin: 70px -15px 0 -15px;
+}
+
+.about_page__item {
+  width: 50%;
+  padding: 0 15px;
+
+  text-align: start;
+}
+
+.about_page__item_img {
+  width: 100%;
+  min-height: 400px;
+  margin-bottom: 50px;
+  overflow: hidden;
+}
+
+.about_page__item_title {
+  margin-bottom: 20px;
+
+  font-family: "Lato Bold";
+  text-transform: uppercase;
+  font-size: 2.4rem;
+}
+
+.about_page__item_description {
+  margin-bottom: 30px;
+
+  font-size: 1.4rem;
+  color: $secondary;
+}

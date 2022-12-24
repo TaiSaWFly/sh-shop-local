@@ -1,0 +1,55 @@
+@import "../../../../../styles/colors.scss";
+@import "../../../../../styles/mixins.scss";
+
+.basket_order_status {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.basket_order_status__check_mark {
+  fill: $green;
+}
+
+.basket_order_status__falied_mark {
+  fill: $danger;
+  transform: rotate(45deg);
+}
+
+.basket_order_status__text {
+  font-family: "Georgia Italic";
+  text-transform: capitalize;
+  font-size: 2.8rem;
+  color: $primary;
+}
+
+.basket_order_status__continue {
+  margin: 20px;
+  font-size: 2rem;
+
+  a {
+    margin: 0 5px;
+    display: inline-block;
+    font-size: 2.2rem;
+    color: $orange;
+    position: relative;
+
+    &::after {
+      content: "";
+      min-width: 0%;
+      height: 1px;
+      background: $hoverBlue;
+
+      position: absolute;
+      bottom: 3px;
+      right: 0;
+
+      transition: min-width 0.2s ease-in-out;
+    }
+
+    &:hover {
+      &::after {
+        min-width: 100%;
+      }
+    }
+  }
+}

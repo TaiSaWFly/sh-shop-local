@@ -1,0 +1,30 @@
+@import "../../../../../styles/colors.scss";
+
+.basket_description {
+  font-family: "Lato Light Italic";
+  font-size: 1.5rem;
+}
+
+.basket_description__title_link {
+  display: inline;
+  font-family: "Lato Bold";
+  text-transform: capitalize;
+  color: $primary;
+
+  transition: color 0.2s ease-in-out;
+
+  &:hover {
+    color: $hoverBlue;
+  }
+}
+
+.basket_description__article {
+  font-size: 1rem;
+  color: $secondary;
+  font-weight: normal;
+
+  & span {
+    font-size: 1.2rem;
+    font-weight: 700;
+  }
+}

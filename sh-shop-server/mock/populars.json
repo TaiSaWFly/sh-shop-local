@@ -1,0 +1,7 @@
+[
+  { "_id": "popular_1", "name": "popular", "products": [] },
+  { "_id": "popular_2", "name": "new arrivals", "products": [] },
+  { "_id": "popular_3", "name": "best sellers", "products": [] },
+  { "_id": "popular_4", "name": "special offers", "products": [] },
+  { "_id": "popular_5", "name": "comming soon", "products": [] }
+]

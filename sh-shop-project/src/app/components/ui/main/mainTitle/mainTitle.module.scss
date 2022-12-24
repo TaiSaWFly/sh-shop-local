@@ -1,0 +1,29 @@
+@import "../../../../../styles/colors.scss";
+
+.main_title__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+.main_title__button {
+  margin-top: 70px;
+}
+
+h1 {
+  margin-bottom: 10px;
+  font-family: "Lato Regular";
+  text-transform: uppercase;
+  font-size: 9rem;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+}
+
+.main_subtitle {
+  font-family: "Georgia Italic";
+  font-size: 2.4rem;
+  font-weight: normal;
+  color: $secondary;
+}

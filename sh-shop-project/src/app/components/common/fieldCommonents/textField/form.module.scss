@@ -1,0 +1,104 @@
+@import "../../../../../styles/colors.scss";
+
+.form__field {
+  display: flex;
+  flex-direction: column;
+
+  position: relative;
+
+  & label {
+    margin-bottom: 10px;
+    color: $secondary;
+    text-align: start;
+    text-transform: uppercase;
+
+    & span {
+      font-size: 1rem;
+      text-transform: lowercase;
+    }
+  }
+}
+
+.form__field_error {
+  display: flex;
+  flex-direction: column;
+
+  position: relative;
+
+  & input {
+    border-color: $danger;
+    border: 1px solid $danger;
+
+    &:focus {
+      border-color: $danger;
+    }
+  }
+
+  & label {
+    margin-bottom: 10px;
+    color: $secondary;
+    text-align: start;
+    text-transform: uppercase;
+
+    & span {
+      font-size: 1rem;
+      text-transform: lowercase;
+    }
+  }
+}
+
+.input__field {
+  padding: 1.2rem 0.8rem;
+  border-radius: 0;
+}
+
+.input__field_number {
+  padding: 1.2rem 0.8rem;
+  border-radius: 0;
+
+  &::-webkit-outer-spin-button,
+  &::-webkit-inner-spin-button {
+    appearance: none;
+    margin: 0;
+  }
+}
+
+.form__hide_password {
+  padding: 0;
+  border: transparent;
+  cursor: pointer;
+
+  position: absolute;
+  right: 15px;
+  top: 60%;
+
+  &:hover {
+    background: transparent;
+    color: $danger;
+  }
+}
+
+.form__show_password {
+  padding: 0;
+  border: transparent;
+  color: $danger;
+  cursor: pointer;
+
+  position: absolute;
+  right: 15px;
+  top: 60%;
+
+  &:hover {
+    background: transparent;
+    color: $danger;
+  }
+}
+
+.form__error {
+  font-size: 1.3rem;
+  color: $danger;
+
+  position: absolute;
+  left: 0;
+  top: 100%;
+}

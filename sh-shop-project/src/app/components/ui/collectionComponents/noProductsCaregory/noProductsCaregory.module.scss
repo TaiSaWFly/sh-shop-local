@@ -1,0 +1,38 @@
+@import "../../../../../styles/colors.scss";
+
+.no_products_caregory {
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 70px;
+}
+
+.content {
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+  color: #606060;
+
+  & p {
+    margin-bottom: 30px;
+  }
+
+  & div {
+    font-weight: 600;
+    color: $primary;
+
+    & span {
+      color: $primary;
+
+      & a {
+        display: inline;
+        font-size: 1.5rem;
+        font-weight: 600;
+        color: $orange;
+      }
+    }
+  }
+}

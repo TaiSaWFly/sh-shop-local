@@ -1,0 +1,62 @@
+@import "../../../../../styles/mixins.scss";
+@import "../../../../../styles/colors.scss";
+
+.collection_header {
+  margin-bottom: 20px;
+}
+
+.collection_header_wrapper {
+  text-align: center;
+
+  a {
+    margin-bottom: 10px;
+
+    font-family: "Georgia Italic";
+    font-size: 1.8rem;
+    line-height: 0.8;
+
+    display: inline-block;
+    position: relative;
+
+    &::after {
+      content: "";
+      min-width: 0%;
+      height: 1px;
+      background: $hoverBlue;
+
+      position: absolute;
+      bottom: -3px;
+      left: 0;
+      transition: min-width 0.3s ease-in-out;
+    }
+
+    &::before {
+      @include add-arrow-triangle;
+      top: 50%;
+      right: -15px;
+      margin-top: -5px;
+      transition: border-color 0.3s ease-in-out;
+    }
+
+    &:hover {
+      &::after {
+        min-width: 100%;
+      }
+
+      &::before {
+        border-color: transparent transparent transparent $hoverBlue;
+      }
+    }
+  }
+}
+
+.collection_header_title__uppercase {
+  font-family: "Lato Bold";
+  font-size: 3.6em;
+  text-transform: uppercase;
+}
+
+.collection_header_title__capitalize {
+  font-weight: 700;
+  font-size: 3.6rem;
+}

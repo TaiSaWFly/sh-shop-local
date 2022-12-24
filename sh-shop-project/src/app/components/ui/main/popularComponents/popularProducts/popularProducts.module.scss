@@ -1,0 +1,21 @@
+@import "../../../../../../styles/colors.scss";
+@import "../../../../../../styles/mixins.scss";
+
+.popular_products {
+  padding: 50px 0;
+  font-size: 1.2rem;
+
+  @include border-top-decor-componnent;
+  @include border-bottom-decor-componnent;
+}
+
+.popular_products__list {
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.popular_items {
+  display: grid;
+  grid-template: 1.5fr 0.5fr 1.5fr / repeat(4, 1fr);
+  grid-gap: 30px;
+}

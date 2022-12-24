@@ -1,0 +1,63 @@
+@import "../../../../styles/colors.scss";
+@import "../../../../styles/mixins.scss";
+
+.basket_page__wrapper {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.basket_container {
+  @include basket_conteiner;
+}
+
+.basket_wrapper {
+  margin: 0 -15px;
+}
+
+.basket_table__action {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+
+  a {
+    display: inline-block;
+    font-size: 1.2rem;
+    color: $primary;
+    position: relative;
+
+    &::after {
+      content: "";
+      min-width: 0%;
+      height: 1px;
+      background: $hoverBlue;
+
+      position: absolute;
+      bottom: 3px;
+      right: 0;
+
+      transition: min-width 0.2s ease-in-out;
+    }
+
+    &::before {
+      @include add-arrow-triangle;
+
+      margin-top: -5px;
+      top: 50%;
+      left: -15px;
+      transform: rotate(-180deg);
+
+      transition: border-color 0.2s ease-in-out;
+    }
+
+    &:hover {
+      &::after {
+        min-width: 100%;
+      }
+
+      &::before {
+        border-color: transparent transparent transparent $hoverBlue;
+      }
+    }
+  }
+}

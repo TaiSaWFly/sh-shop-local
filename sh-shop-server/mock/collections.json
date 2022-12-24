@@ -1,0 +1,6 @@
+[
+  { "_id": "collection_1", "name": "Women", "path": "women" },
+  { "_id": "collection_2", "name": "Men", "path": "men" },
+  { "_id": "collection_3", "name": "Kids", "path": "kids" },
+  { "_id": "collection_4", "name": "Comming Soon", "path": "commingsoon" }
+]

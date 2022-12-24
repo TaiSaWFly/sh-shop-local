@@ -1,0 +1,69 @@
+@import "../../../../../../styles/colors.scss";
+@import "../../../../../../styles/mixins.scss";
+
+.menu_items {
+  cursor: pointer;
+  margin-right: 50px;
+  padding: 15px 0;
+  position: relative;
+  z-index: 900;
+
+  &:hover {
+    .menu_items__title {
+      color: $hoverBlue;
+    }
+  }
+
+  &:last-of-type {
+    margin-right: 0;
+  }
+}
+
+.menu_items__title {
+  color: $primary;
+  transition: color 0.2s ease-in-out;
+}
+
+.menu_items__title_arrow {
+  position: relative;
+  transition: color 0.2s ease-in-out;
+
+  &::after {
+    @include add-arrow;
+    border-bottom-color: transparent;
+    border-right-color: transparent;
+
+    left: 3px;
+    bottom: -5px;
+    transform: rotate(45deg);
+
+    transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+  }
+
+  &:hover {
+    color: $hoverBlue;
+
+    &::after {
+      border-bottom-color: $hoverBlue;
+      border-right-color: $hoverBlue;
+    }
+  }
+}
+
+.menu_items__title_arrow_active {
+  color: $hoverBlue;
+  position: relative;
+  transition: color 0.2s ease-in-out;
+
+  &::after {
+    @include add-arrow;
+    border-bottom-color: $hoverBlue;
+    border-right-color: $hoverBlue;
+
+    left: 3px;
+    bottom: -5px;
+    transform: rotate(45deg);
+
+    transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+  }
+}

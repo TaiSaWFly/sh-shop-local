@@ -1,0 +1,78 @@
+@import "../../../../../styles/colors.scss";
+@import "../../../../../styles/mixins.scss";
+
+.basket_table {
+  font-size: 1.2rem;
+
+  & table {
+    display: block;
+    width: 100%;
+
+    font-size: 1.2rem;
+    font-weight: 700;
+    border-collapse: collapse;
+
+    & th {
+      padding-bottom: 10px;
+    }
+
+    & td {
+      padding: 20px 0;
+    }
+
+    & thead {
+      color: $secondary;
+      text-align: left;
+      text-transform: uppercase;
+      letter-spacing: 0.75px;
+
+      & tr {
+        @include border-bottom-decor-componnent;
+      }
+    }
+
+    & tbody {
+      & tr {
+        @include border-bottom-decor-componnent;
+      }
+
+      tr:nth-child(even) {
+        background-color: #fdfdfd;
+      }
+
+      & td {
+        font-size: 1.3rem;
+        width: 100%;
+        padding-right: 70px;
+        white-space: nowrap;
+
+        &:first-of-type {
+          width: 100px;
+          height: 100px;
+          padding: 20px 25px 20px 5px;
+        }
+
+        &:nth-child(6) {
+          padding-right: 40px;
+        }
+
+        &:last-of-type {
+          padding-right: 10px;
+        }
+      }
+    }
+
+    & tfoot {
+      margin: 50px 0;
+
+      font-family: "Lato Bold";
+      font-size: 1.5rem;
+      background-color: #f9f9f9;
+      text-transform: capitalize;
+
+      & span {
+        color: $orange;
+      }
+    }
+  }
+}

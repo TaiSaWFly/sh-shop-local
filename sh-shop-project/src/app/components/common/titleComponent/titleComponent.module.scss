@@ -1,0 +1,19 @@
+@import "../../../../styles/colors.scss";
+
+.title_component {
+  font-family: "Lato Bold";
+  color: $primary;
+  text-align: center;
+}
+
+.title {
+  font-size: 3.6rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.subtitle {
+  font-family: "Georgia Italic";
+  font-size: 1.8rem;
+  color: $secondary;
+}

@@ -1,0 +1,31 @@
+@import "../../../../../../styles/colors.scss";
+@import "../../../../../../styles/mixins.scss";
+
+.nav_list {
+  display: flex;
+}
+
+.nav_list__search {
+  position: relative;
+}
+
+.nav_list__search_input {
+  padding: 5px 10px;
+
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: $primary;
+}
+
+.nav_list__search_label {
+  position: absolute;
+  z-index: 1;
+
+  top: 58%;
+  right: 10px;
+  transform: translateY(-48%);
+}
+
+.nav_list__search_icon * {
+  fill: $secondary;
+}

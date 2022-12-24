@@ -1,0 +1,27 @@
+@import "../../../styles/colors.scss";
+@import "../../../styles/mixins.scss";
+
+.product_filter {
+  margin-bottom: 40px;
+}
+
+.filter_conteiner {
+  width: 100%;
+  max-width: 670px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.filter_wrapper {
+  display: flex;
+}
+
+.filter {
+  max-width: 200px;
+  width: 100%;
+  margin-right: 20px;
+
+  &:last-of-type {
+    margin-right: 0;
+  }
+}

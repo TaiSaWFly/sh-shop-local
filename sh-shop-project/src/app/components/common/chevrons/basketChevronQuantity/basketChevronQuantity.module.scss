@@ -1,0 +1,22 @@
+@import "../../../../../styles/colors.scss";
+
+.chevron_quantity__wrapper {
+  font-size: 1.2rem;
+  width: 30px;
+  height: 30px;
+  background: $orange;
+  border-radius: 50%;
+
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+.chevron_quantity__info {
+  color: $tertiary;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  transform: translate3d(-50%, -50%, 0);
+}

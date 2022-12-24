@@ -1,0 +1,19 @@
+@import "../../../../styles/mixins.scss";
+
+.container {
+  @include conteiner;
+}
+
+.component_style {
+  padding: 70px 0;
+  @include border-bottom-decor-componnent;
+}
+
+.component_style_footer {
+  padding: 45px 0;
+}
+
+.component_style_nav_bar {
+  padding: 30px 0;
+  @include border-bottom-decor-componnent;
+}

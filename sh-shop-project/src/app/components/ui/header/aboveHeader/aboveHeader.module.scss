@@ -1,0 +1,30 @@
+@import "../../../../../styles/colors.scss";
+@import "../../../../../styles/mixins.scss";
+
+.above_header {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: $secondary;
+
+  background: #333;
+}
+
+.above_header__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100%;
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.above_header__links {
+  display: flex;
+}
+
+.above_header__link_currency {
+  padding: 15px 40px 15px 20px;
+}

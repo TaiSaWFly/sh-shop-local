@@ -1,0 +1,15 @@
+@import "../../../../../styles/mixins.scss";
+
+.product_description {
+  margin: 20px 0 40px 0;
+  padding-bottom: 5px;
+  font-family: "Lato Regular";
+  font-size: 1.4rem;
+
+  @include border-bottom-decor-componnent;
+}
+
+.product_description_title {
+  font-family: "Lato Bold";
+  font-size: 2rem;
+}
