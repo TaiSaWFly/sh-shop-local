@@ -10,14 +10,17 @@ import ReviewsPage from "../../page/productCardPages/reviewsPage/reviewsPage";
 import style from "./productCardLayout.module.scss";
 import {
   getProductByIds,
+  getProductError,
   loadProductByIds,
 } from "../../../store/slices/product";
+import NoProduct from "../../ui/productCard/noProduct/noProduct";
 
 const ProductCardLayout = () => {
   const { productId } = useParams();
 
   const dispatch = useDispatch();
   const product = useSelector(getProductByIds(productId));
+  const productError = useSelector(getProductError());
 
   useEffect(() => {
     dispatch(loadProductByIds([productId]));
@@ -28,30 +31,34 @@ const ProductCardLayout = () => {
 
   return (
     <ComponentContainer>
-      {product ? (
-        <>
-          <div className={style.product_card_page}>
-            <ProductCardPage {...{ product, productId }} />
-          </div>
+      {!productError ? (
+        product ? (
+          <>
+            <div className={style.product_card_page}>
+              <ProductCardPage {...{ product, productId }} />
+            </div>
 
-          <div className={style.product_card_page__pages_info}>
-            <Switch>
-              <Route
-                path={`/product/${productId}/decription`}
-                component={ProductDescriptionPage}
-              />
+            <div className={style.product_card_page__pages_info}>
+              <Switch>
+                <Route
+                  path={`/product/${productId}/decription`}
+                  component={ProductDescriptionPage}
+                />
 
-              <Route
-                path={`/product/${productId}/reviews`}
-                component={() => ReviewsPage({ ...{ productId } })}
-              />
+                <Route
+                  path={`/product/${productId}/reviews`}
+                  component={() => ReviewsPage({ ...{ productId } })}
+                />
 
-              <Redirect to={`/product/${productId}/decription`} from="*" />
-            </Switch>
-          </div>
-        </>
+                <Redirect to={`/product/${productId}/decription`} from="*" />
+              </Switch>
+            </div>
+          </>
+        ) : (
+          <Loading />
+        )
       ) : (
-        <Loading />
+        <NoProduct />
       )}
     </ComponentContainer>
   );

@@ -16,10 +16,12 @@ const productSlice = createSlice({
     entitiesLength: null,
     isLoading: true,
     isLoadingLength: true,
+    error: false,
   },
   reducers: {
     productRequested: (state) => {
       state.isLoading = true;
+      state.error = false;
     },
     productReceved: (state, action) => {
       if (state.entities === null) {
@@ -40,6 +42,7 @@ const productSlice = createSlice({
     },
     productRecevedFalied: (state) => {
       state.isLoading = false;
+      state.error = true;
     },
     productLengthFalied: (state) => {
       state.isLoadingLength = false;
@@ -175,6 +178,8 @@ export const loadProductByIds = (ids) => async (dispatch, getState) => {
 
         dispatch(productReceved(content));
       } catch (error) {
+        console.log(error.response.data.code);
+
         dispatch(productRecevedFalied());
       }
     }
@@ -259,5 +264,7 @@ export const getProductLength = () => (state) => state.product.entitiesLength;
 export const getProductLoadingStatus = () => (state) => state.product.isLoading;
 export const getProductLengthLoadingStatus = () => (state) =>
   state.product.isLoadingLength;
+
+export const getProductError = () => (state) => state.product.error;
 
 export default productReducer;

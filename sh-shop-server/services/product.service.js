@@ -74,7 +74,7 @@ exports.getListByIds = async function (ids) {
     const data = await Product.find({ _id: ids });
     return data;
   } catch (error) {
-    throw Error("Unexpected error Product");
+    throw Error("Unexpected error Products");
   }
 };
 
